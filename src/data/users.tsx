@@ -966,6 +966,15 @@ const Users: User[] = [
     author: 'https://bsky.app/profile/did:plc:ubz4oedvsb7dsuncqi5jb7o2',
     tags: ['bot', 'opensource'],
   },
+    {
+    title: 'Agora',
+    description: 'Follow your interests across social networks!',
+    preview: 'https://i.imgur.com/CQet192.png',
+    website: 'https://agorasocial.app',
+    source: 'https://github.com/ghobs91/agora',
+    author: 'https://bsky.app/profile/andrew.bsky.social',
+    tags: ['client', 'opensource'],
+  },
 ]
 
 export type User = {
